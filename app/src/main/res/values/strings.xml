@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IntentDemo_complex</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="view_action">View Action</string>
+    <string name="launch_action">Launch Action</string>
+    <string name="exception_condition">Exception Condition</string>
+    <string name="title_activity_my_intent">myIntentActivity</string>
+</resources>
